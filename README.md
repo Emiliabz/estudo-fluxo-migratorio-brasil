@@ -15,15 +15,15 @@ O projeto foi estruturado para gerar e comparar três visões estratégicas de d
 * **GitHub**: Hospedagem do portfólio e controle de versão.
 
 ## 📂 Estrutura do Repositório
-* `analise_imigracao.py`: Script em Python com a lógica de filtros, agrupamentos do ranking e criação das animações.
-* `imigracao_america_sul_interativo.ipynb`: Notebook do Google Colab com todas as tabelas e códigos gerados.
+* `imigracao_america_sul_interativo.ipynb`: Notebook principal contendo todo o passo a passo da análise, tabelas estruturadas e os gráficos interativos gerados.
 * `imigrantes_canada.csv`: Base de dados original utilizada no estudo.
+* `/` (Formatos de Imagem): Gráficos estáticos exportados para documentação.
 
-### 🚀 Visualização Direta no Navegador (Links Interativos)
-Clique nos links abaixo para abrir e interagir diretamente com as visualizações geradas (com suporte ao botão Play ezoom):
+### 🚀 Acesso Direto às Visualizações Interativas
+Como o GitHub mantém os gráficos congelados na página do repositório por segurança, você pode rodar a animação temporal completa (com o botão Play e zoom) utilizando os acessos oficiais abaixo:
 
-📊 [Visualizar Estudo e Gráficos Interativos no NBViewer](https://nbviewer.org/github/Emiliabz/estudo-fluxo-migratorio-brasil/blob/main/imigracao_america_sul_interativo.ipynb)
-* 💻 [Abrir direto no Google Colab](https://colab.research.google.com/drive/1Z5WUX-JOJMAQ5iZ0DSfo36zkIl8lCmGY)
+* 💻 [Abrir e Executar o Projeto direto no Google Colab](https://colab.research.google.com/drive/1Z5WUX-JOJMAQ5iZ0DSfo36zkIl8lCmGY)
+* 📊 [Visualizar o Estudo renderizado no NBViewer](https://nbviewer.org/github/Emiliabz/estudo-fluxo-migratorio-brasil/blob/main/imigracao_america_sul_interativo.ipynb)
 
 ---
 Análise desenvolvida como parte do meu portfólio de projetos e evolução como **Analista de Dados em formação**.
