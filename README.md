@@ -14,10 +14,10 @@ Este projeto apresenta uma análise comparativa da imigração de cidadãos do B
 * **Gráfico Animado Interativo**: Implementação de uma linha do tempo dinâmica utilizando o recurso de animação do Plotly, permitindo visualizar a evolução dos fluxos ao clicar no botão **Play**.
 
 ## 📂 Estrutura do Repositório
-* `estudo_fluxo_migratorio_brasil.py`: Código-fonte com o tratamento e geração dos gráficos.
-* `imigrantes_canada.csv`: Base de dados utilizada no estudo.
-* `imigracao_america_sul_interativo.html`: Arquivo do gráfico interativo para visualização direta no navegador.
-* `/` (Formatos de Imagem): Gráficos estáticos exportados para apresentações.
+* `analise_imigracao.py`: Código-fonte em Python com o tratamento de dados e lógica da animação.
+* `imigracao_america_sul_interativo.ipynb`: Notebook do Google Colab onde os gráficos e tabelas podem ser vistos direto na página.
+* `imigrantes_canada.csv`: Base de dados original utilizada no estudo.
+* `imigracao_america_sul_interativo.html`: Arquivo do gráfico interativo para download e visualização direta no navegador.
 
 ---
 Análise desenvolvida como parte do meu portfólio de projetos e evolução como **Analista de Dados em formação**.
