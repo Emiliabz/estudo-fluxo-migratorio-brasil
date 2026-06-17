@@ -19,10 +19,12 @@ O projeto foi estruturado para gerar e comparar três visões estratégicas de d
 * `imigracao_america_sul_interativo.ipynb`: Notebook do Google Colab com todas as tabelas e códigos gerados.
 * `imigrantes_canada.csv`: Base de dados original utilizada no estudo.
 
-### 🚀 Visualização Interativa (Acesse os gráficos com o botão Play!)
-Como o GitHub não roda animações diretamente na página por segurança, você pode visualizar e interagir com o gráfico completo de três formas:
-1. 💻 [Executar direto no Google Colab]([COLE_AQUI_O_LINK_DO_SEU_COLAB](https://colab.research.google.com/drive/1Z5WUX-JOJMAQ5iZ0DSfo36zkIl8lCmGY#scrollTo=suey4VzSXKSg)): Abra o projeto no ambiente do Colab para rodar as células de código.
-2. 📊 [Visualizar interativamente pelo NBViewer](https://github.com/Emiliabz/estudo-fluxo-migratorio-brasil): Uma forma rápida de ver os gráficos animados funcionando direto pelo navegador.
+### 🚀 Visualização Direta no Navegador (Links Interativos)
+Clique nos links abaixo para abrir e interagir diretamente com as visualizações geradas (com suporte ao botão Play ezoom):
+
+*💻 [Executar direto no Google Colab](https://colab.research.google.com/drive/1Z5WUX-JOJMAQ5iZ0DSfo36zkIl8lCmGY#scrollTo=suey4VzSXKSg))
+* 📊 [Abrir Gráfico Interativo - Análise Temporal Sul-Americana](https://seu-usuario.github.io/seu-repositorio/imigracao_america_sul_interativo.html)
+* 📈 [Abrir Gráfico Geral - Fluxo Migratório América do Sul](https://seu-usuario.github.io/seu-repositorio/imigracao_america_sul.html)
 
 ---
 Análise desenvolvida como parte do meu portfólio de projetos e evolução como **Analista de Dados em formação**.
