@@ -22,9 +22,8 @@ O projeto foi estruturado para gerar e comparar três visões estratégicas de d
 ### 🚀 Visualização Direta no Navegador (Links Interativos)
 Clique nos links abaixo para abrir e interagir diretamente com as visualizações geradas (com suporte ao botão Play ezoom):
 
-*💻 [Executar direto no Google Colab](https://colab.research.google.com/drive/1Z5WUX-JOJMAQ5iZ0DSfo36zkIl8lCmGY#scrollTo=suey4VzSXKSg))
-* 📊 [Abrir Gráfico Interativo - Análise Temporal Sul-Americana](https://seu-usuario.github.io/seu-repositorio/imigracao_america_sul_interativo.html)
-* 📈 [Abrir Gráfico Geral - Fluxo Migratório América do Sul](https://seu-usuario.github.io/seu-repositorio/imigracao_america_sul.html)
+📊 [Visualizar Estudo e Gráficos Interativos no NBViewer](https://nbviewer.org/github/Emiliabz/estudo-fluxo-migratorio-brasil/blob/main/imigracao_america_sul_interativo.ipynb)
+* 💻 [Abrir direto no Google Colab](https://colab.research.google.com/drive/1Z5WUX-JOJMAQ5iZ0DSfo36zkIl8lCmGY)
 
 ---
 Análise desenvolvida como parte do meu portfólio de projetos e evolução como **Analista de Dados em formação**.
