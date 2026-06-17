@@ -16,9 +16,13 @@ O projeto foi estruturado para gerar e comparar três visões estratégicas de d
 
 ## 📂 Estrutura do Repositório
 * `analise_imigracao.py`: Script em Python com a lógica de filtros, agrupamentos do ranking e criação das animações.
-* `imigracao_america_sul_interativo.ipynb`: Notebook do Google Colab com todas as tabelas, códigos e gráficos gerados visíveis diretamente na página.
+* `imigracao_america_sul_interativo.ipynb`: Notebook do Google Colab com todas as tabelas e códigos gerados.
 * `imigrantes_canada.csv`: Base de dados original utilizada no estudo.
-* `imigracao_america_sul_interativo.html`: Gráfico interativo exportado para visualização completa e dinâmica no navegador.
+
+### 🚀 Visualização Interativa (Acesse os gráficos com o botão Play!)
+Como o GitHub não roda animações diretamente na página por segurança, você pode visualizar e interagir com o gráfico completo de três formas:
+1. 💻 [Executar direto no Google Colab]([COLE_AQUI_O_LINK_DO_SEU_COLAB](https://colab.research.google.com/drive/1Z5WUX-JOJMAQ5iZ0DSfo36zkIl8lCmGY#scrollTo=suey4VzSXKSg)): Abra o projeto no ambiente do Colab para rodar as células de código.
+2. 📊 [Visualizar interativamente pelo NBViewer](https://github.com/Emiliabz/estudo-fluxo-migratorio-brasil): Uma forma rápida de ver os gráficos animados funcionando direto pelo navegador.
 
 ---
 Análise desenvolvida como parte do meu portfólio de projetos e evolução como **Analista de Dados em formação**.
